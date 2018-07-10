@@ -5,6 +5,7 @@ import App from './App'
 import router from './router'
 import iView from 'iView'
 import 'iview/dist/styles/iview.css'
+import '@/assets/my-theme/index.less'
 
 Vue.use(iView)
 
