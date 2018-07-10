@@ -19,6 +19,7 @@
     <div class="inner_b">
     <p>Copyright&nbsp;&nbsp;2017&nbsp;&nbsp;时光流影科技股份有限公司&nbsp;&nbsp;版权所有&nbsp;&nbsp;All rights reserved &nbsp;&nbsp;<a href="/">网站地图</a>&nbsp;&nbsp;皖ICP备10017145号-11</p>
     </div>
+    <BackTop></BackTop>
     </div>
 </template>
 
